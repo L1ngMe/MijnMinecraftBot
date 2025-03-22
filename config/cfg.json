@@ -1,8 +1,8 @@
 {
-  "BOTNAME": "RapLinga",
-  "HOST": "d6.apexnodes.xyz",
-  "PORT": "27760",
-  "ADMINS": ["AheadRex5972862", "AndyLocks"],
-  "VERSION": "1.20.2",
-  "PASSWORD": ""
+  "BOTNAME": "your_nickname",
+  "HOST": "ip",
+  "PORT": "port",
+  "ADMINS": ["admin1", "admin2"],
+  "VERSION": "version",
+  "PASSWORD": "" 
 }
